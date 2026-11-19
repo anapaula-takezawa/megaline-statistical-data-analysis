@@ -1,3 +1,5 @@
+\<p align="center">   \<img src="megaline_statistical_data_analysis_cover_1280x640.jpg"        alt="Megaline Telecom — Statistical Data Analysis"        width="100%"> \</p>
+
 # Megaline Telecom — Statistical Data Analysis
 
 **Author:** Ana Paula Takezawa  
