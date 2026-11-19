@@ -2,6 +2,9 @@
 
 # Megaline Telecom — Statistical Data Analysis
 
+
+# Megaline Telecom — Statistical Data Analysis
+
 **Author:** Ana Paula Takezawa  
 **Education:** MBA in Data Science and Artificial Intelligence — TripleTen Brasil
 
